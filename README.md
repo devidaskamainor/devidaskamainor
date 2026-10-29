@@ -1,134 +1,125 @@
-<!--
-  GitHub Profile README
-  Owner: Devidas Kamainor
-  Replace the LinkedIn, portfolio, and email placeholders before publishing.
--->
+<!-- ============================================================
+     PROFILE README — Devidas Kamainor
+     TIP: To use your own photo, upload it to your repo as
+     assets/profile.png and replace the image src below with:
+     ./assets/profile.png
+     ============================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:6C63FF,100:00C9A7&height=180&section=header" width="100%" alt="Profile header"/>
+<!-- ░░░ HEADER BANNER ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:7C3AED,100:FF4D6D&height=200&section=header&text=&fontSize=0" width="100%" alt="Header banner" />
 
+<!-- ░░░ PROFILE IMAGE ░░░ -->
 <a href="https://github.com/devidaskamainor">
-  <img src="https://github.com/devidaskamainor.png?size=200" width="145" alt="Devidas Kamainor's GitHub profile picture"/>
+  <img src="https://github.com/devidaskamainor.png?size=300" width="170" height="170" alt="Devidas Kamainor" style="border-radius:50%;" />
 </a>
 
-# Hi, I'm Devidas Kamainor 👋
+# Devidas Kamainor
 
-### Aspiring Full-Stack Developer | AI Enthusiast | Software Developer in Progress
+### Full-Stack Developer &nbsp;•&nbsp; AI Project Builder &nbsp;•&nbsp; Problem Solver
 
-Building practical applications, exploring AI, and turning ideas into working software.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Building+practical+web+%26+AI+products;Turning+ideas+into+working+software;Learning+by+building+every+day" alt="Typing animation" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Applications;Exploring+AI-Powered+Solutions;Learning+by+Building+Real+Projects;Improving+One+Commit+at+a+Time" alt="Developer introduction"/>
+<br/>
 
-<p>
-  <a href="https://github.com/devidaskamainor">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<a href="https://github.com/devidaskamainor"><img src="https://img.shields.io/badge/GitHub-devidaskamainor-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="#-connect-with-me"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="#-connect-with-me"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="#-connect-with-me"><img src="https://img.shields.io/badge/Email-Contact-FF4D6D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-6C63FF?style=flat-square" alt="Development focus"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-2EA043?style=flat-square" alt="Internship status"/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Status-Aspiring%20Software%20Developer-FF4D6D?style=flat-square" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-0A66C2?style=flat-square" alt="Focus" />
+<img src="https://img.shields.io/badge/Open%20to-Internships-2EA043?style=flat-square" alt="Open to internships" />
 
 </div>
+
+<br/>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm an aspiring software developer interested in building useful web applications and AI-powered products.
+> *"Build things that are functional, clean, and meaningful."*
 
-I enjoy taking an idea from concept to implementation, solving practical problems, and learning through hands-on development.
+I'm an aspiring software developer focused on building **practical web and AI-driven applications**. I enjoy turning ideas into working products, learning modern technologies, and sharpening my problem-solving through hands-on projects.
 
-- 💻 Interested in full-stack development and AI integration.
-- 🚀 Building projects with real-world use cases.
-- 🧠 Improving my problem-solving and software design skills.
-- 🌱 Learning better coding practices, deployment, and scalable architecture.
-- 🎯 Working toward software development internships and placement opportunities.
-
-My approach is simple: learn a concept, build something with it, and improve through practice.
+| 🎯 What I love | 🌱 What I'm growing | 💡 What I aim for |
+| :--- | :--- | :--- |
+| Full-stack development | Production-ready architecture | Clean, maintainable code |
+| AI-powered tools | TypeScript & scalable patterns | User-focused products |
+| Solving everyday problems | Deployment workflows | Real engineering impact |
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css" alt="JavaScript, TypeScript, Python, HTML, CSS"/>
-</p>
+**Languages**
 
-### Frontend Development
+<img src="https://skillicons.dev/icons?i=js,ts,py,html,css&theme=dark" alt="Languages" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="React, Vite, Tailwind CSS"/>
-</p>
+**Frontend**
 
-### Backend and Databases
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="Frontend" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase" alt="Node.js, Express, MongoDB, PostgreSQL, Supabase"/>
-</p>
+**Backend & Databases**
 
-### AI and Developer Tools
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase&theme=dark" alt="Backend" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, Visual Studio Code"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-AI%20Integration-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
-  <img src="https://img.shields.io/badge/Streamlit-Python%20Apps-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-</p>
+**AI & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
-
-Here are some projects demonstrating my experience with web development, application design, and AI integration.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🛡️ Complaint Resolution System
+A professional complaint management platform that streamlines submission and resolution workflows.
 
-A complaint management platform designed to organize submissions, tracking, and resolution workflows.
+**Key features**
+- Citizen & officer portals
+- Complaint tracking
+- Role-based access
+- File uploads & email workflows
 
-Features:
-- Citizen and officer portals.
-- Complaint tracking and management.
-- Role-based access.
-- File uploads and email workflows.
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-Tech stack:
-
-`Node.js` `Express.js` `MongoDB` `JWT`
-
-<a href="https://github.com/devidaskamainor/complaint-resolution-system">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Complaint Resolution System repository"/>
-</a>
+[**🔗 View Repository →**](https://github.com/devidaskamainor/complaint-resolution-system)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🍽️ Happy Kitchen Plan Menu
+A modern meal-planning app that helps families plan meals, manage ingredients, and simplify cooking decisions.
 
-A meal-planning application designed to help users organize meals, manage ingredients, and simplify food planning.
+**Key features**
+- Guided meal planning flow
+- Grocery organization
+- Personalized preferences
+- Responsive dashboard
 
-Features:
-- Guided meal-planning workflow.
-- Grocery organization.
-- Personalized preferences.
-- Responsive dashboard.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-Tech stack:
-
-`React` `TypeScript` `Tailwind CSS` `Supabase`
-
-<a href="https://github.com/devidaskamainor/Happy-kitchen-plan-menu">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Happy Kitchen repository"/>
-</a>
+[**🔗 View Repository →**](https://github.com/devidaskamainor/Happy-kitchen-plan-menu)
 
 </td>
 </tr>
@@ -136,43 +127,39 @@ Tech stack:
 <td width="50%" valign="top">
 
 ### 📚 Snap & Study Easy
+An AI-powered study assistant that explains uploaded learning material and answers questions using Gemini.
 
-An AI-powered study assistant that helps users understand learning material and get explanations with Google's Gemini.
+**Key features**
+- Image-based study help
+- Instant explanations
+- Email delivery
+- WhatsApp summaries
 
-Features:
-- Image-based study assistance.
-- AI-generated explanations.
-- Email delivery.
-- WhatsApp summaries.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
 
-Tech stack:
-
-`Python` `Streamlit` `Gemini` `Twilio`
-
-<a href="https://github.com/devidaskamainor/Snap-and-Study-Easy">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Snap and Study Easy repository"/>
-</a>
+[**🔗 View Repository →**](https://github.com/devidaskamainor/Snap-and-Study-Easy)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🕵️ AI Investigation Room
+An interactive mystery-solving web game with AI-assisted storytelling, evidence review, hints, and case progression.
 
-An interactive mystery-solving application where users investigate fictional cases, review evidence, and identify suspects.
+**Key features**
+- Investigation flow & user accounts
+- Evidence analysis
+- Scoring & history tracking
+- AI-generated cases
 
-Features:
-- AI-generated investigation scenarios.
-- Evidence analysis and case progression.
-- User accounts and investigation history.
-- Scoring and hints.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-Tech stack:
-
-`React` `Vite` `Express.js` `MongoDB`
-
-<a href="https://github.com/devidaskamainor/AI_Investigation_room">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View AI Investigation Room repository"/>
-</a>
+[**🔗 View Repository →**](https://github.com/devidaskamainor/AI_Investigation_room)
 
 </td>
 </tr>
@@ -180,45 +167,38 @@ Tech stack:
 
 ---
 
-## 📚 Currently Learning
+## 📈 Currently Learning
 
-| Area | Learning Focus |
-|---|---|
-| Full-Stack Development | Building maintainable frontend and backend applications |
-| TypeScript | Type safety and scalable code patterns |
-| AI Development | Integrating AI capabilities into useful applications |
-| Software Architecture | Organizing code and designing reliable systems |
-| Deployment | Understanding application hosting and production workflows |
-
----
-
-## 🎯 Goals
-
-- [x] Build practical projects with real features.
-- [ ] Strengthen data structures and algorithms.
-- [ ] Improve backend architecture and API design.
-- [ ] Deploy more full-stack applications.
-- [ ] Write cleaner, more maintainable code.
-- [ ] Contribute to open-source projects.
-- [ ] Secure a software development internship or placement.
+| Area | Focus |
+| :--- | :--- |
+| 🏗️ **Architecture** | Full-stack architecture & production-ready project design |
+| 🔷 **Frontend** | TypeScript and scalable frontend patterns |
+| 🤖 **AI** | AI integration & practical product development |
+| ☁️ **DevOps** | Deployment workflows & professional documentation |
 
 ---
 
-## 📊 GitHub Overview
+## 🎯 Current Goals
+
+- [x] Build full-stack projects with real features
+- [ ] Create stronger projects with clean architecture
+- [ ] Learn modern backend patterns and deployment practices
+- [ ] Build more AI-assisted, user-focused applications
+- [ ] Improve problem-solving, code quality & interview readiness
+- [ ] Land an internship / software placement opportunity
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devidaskamainor&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=devidaskamainor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devidaskamainor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devidaskamainor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+<img src="https://streak-stats.demolab.com?user=devidaskamainor&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=devidaskamainor&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devidaskamainor&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devidaskamainor&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%" alt="Contribution graph" />
 
 </div>
 
@@ -226,38 +206,30 @@ Tech stack:
 
 ## 🤝 Connect With Me
 
-I'm interested in connecting with developers, collaborating on projects, and learning from the software development community.
-
 <div align="center">
 
-<a href="https://github.com/devidaskamainor">
-  <img src="https://img.shields.io/badge/GitHub-Devidas%20Kamainor-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/>
-</a>
-
-<a href="https://YOUR-PORTFOLIO-URL.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website"/>
-</a>
-
-<a href="mailto:YOUR-EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact"/>
-</a>
+<a href="https://github.com/devidaskamainor"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<!-- Replace the placeholders below with your real links -->
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://YOUR-PORTFOLIO-URL.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-FF4D6D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
 ---
 
+## 📝 Professional Summary
+
+I build practical software with a focus on **usability, problem-solving, and continuous learning**. My goal is to become a confident full-stack developer by strengthening my technical skills, writing maintainable code, and creating projects that demonstrate real engineering ability.
+
+<br/>
+
 <div align="center">
 
-### 💡 Build. Learn. Improve. Repeat.
+<img src="https://komarev.com/ghpvc/?username=devidaskamainor&label=Profile%20views&color=7C3AED&style=flat-square" alt="Profile views" />
 
-*Focused on writing better code, building useful products, and growing as a software developer.*
+*⭐ Building practical projects, learning continuously, and preparing for a career in software development.*
 
-<img src="https://komarev.com/ghpvc/?username=devidaskamainor&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile views"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:6C63FF,100:0A66C2&height=100&section=footer" width="100%" alt="Profile footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D6D,50:7C3AED,100:0A66C2&height=120&section=footer" width="100%" alt="Footer banner" />
 
 </div>
