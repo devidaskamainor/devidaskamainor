@@ -1,236 +1,127 @@
-Act as a professional GitHub Profile Designer, Developer Branding Specialist, and Technical Recruiter.
+# Hi, I'm Devidas Kamainor 👋
 
-Your mission is to transform my GitHub profile into a modern, aesthetic, professional, and placement-ready developer portfolio.
+<p align="center">
+  <a href="https://github.com/devidaskamainor" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-devidaskamainor-181717?logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Aspiring%20Software%20Developer-FF4D6D" alt="Current status" />
+  <img src="https://img.shields.io/badge/Focus-Full-Stack%20%26%20AI-0A66C2" alt="Development focus" />
+</p>
 
-The profile should be suitable for engineering students, CSE students, college students, freshers, internship applicants, and aspiring software developers.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&lines=Full-Stack+Developer;AI+Project+Builder;Problem+Solver;Learning+by+Building" alt="Typing animation" />
+</p>
 
-IMPORTANT: Analyze my existing profile repository and available project information before making changes. Use my actual information. Never invent achievements, skills, certifications, experience, or project details.
+I’m an aspiring software developer focused on building practical web and AI-driven applications. I enjoy turning ideas into working products, learning modern technologies, and improving my problem-solving and full-stack development skills through hands-on projects.
 
-## 1. Create an Aesthetic GitHub Profile README
+## About Me
 
-Redesign my README.md with a clean, modern, professional layout.
+I’m a developer who enjoys building useful software, learning by doing, and improving my engineering skills through real-world project work. My interests include full-stack development, AI-powered tools, and building user-focused products that solve everyday problems.
 
-Include:
-- A professional introduction with my name and developer identity.
-- A concise developer bio.
-- A welcoming headline that reflects my technical interests.
-- A short introduction explaining what I build and what I am learning.
-- Relevant technology icons and carefully selected badges.
-- A visually balanced layout that works well on desktop and mobile.
-- A professional banner only if it improves the design.
+I like creating applications that are functional, clean, and meaningful — whether that is a web platform, an AI assistant, or a project that improves a user workflow.
 
-Keep the profile attractive without excessive emojis, animations, badges, or decorative elements.
+## Tech Stack
 
-## 2. Write a Professional Developer Bio
+### Programming Languages
 
-Create a concise and authentic bio that communicates:
-- My current educational or professional status, if known.
-- My areas of technical interest.
-- My programming and development skills.
-- My approach to solving problems.
-- My interest in building practical projects.
-- My internship or entry-level career goals, if applicable.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-Use the information available in my profile and repositories.
+### Frontend Development
 
-If essential information is missing, ask me instead of making assumptions.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## 3. Add My Tech Stack and Skills
+### Backend Development
 
-Organize my technologies into relevant categories.
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-Possible categories include:
-- Programming Languages
-- Frontend Development
-- Backend Development
-- Databases
-- AI and Machine Learning
-- Tools and Platforms
-- Version Control
-- Core Computer Science Concepts
+### AI & Tools
 
-Only include categories and technologies relevant to my actual experience.
+![Gemini](https://img.shields.io/badge/Google_Gemini-AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-Use clean, recognizable icons from reliable sources. Avoid listing technologies simply to make the profile appear more advanced.
+## Featured Projects
 
-## 4. Showcase My Best Projects
+### 1. Complaint Resolution System
 
-Analyze my available repositories and identify the strongest projects to feature.
+A professional complaint management system built with Node.js, Express, and MongoDB to support complaint submission and resolution workflows.
 
-Prioritize projects based on:
-- Practical usefulness.
-- Code quality.
-- Completeness.
-- Technical depth.
-- Documentation.
-- Originality.
-- Relevance to software engineering internships and placements.
+- Technologies: Node.js, Express, MongoDB, JWT, Multer, Nodemailer
+- Key features: citizen portal, officer portal, complaint tracking, role-based access, file upload support, email workflows
+- Repository: https://github.com/devidaskamainor/complaint-resolution-system
 
-For each featured project, include:
-- Project name.
-- Short description.
-- Technologies used.
-- Key features.
-- Repository link.
-- Live demo link, if available.
-- Screenshot or preview, if available.
+### 2. Happy Kitchen Plan Menu
 
-Highlight projects that demonstrate practical problem-solving and technical ability.
+A modern meal-planning application designed to help families plan meals, manage ingredients, and organize household cooking decisions.
 
-Do not fabricate features, descriptions, or project results.
+- Technologies: React, TypeScript, Vite, Tailwind CSS, Supabase, PostgreSQL
+- Key features: meal planning flow, family-focused UI, grocery organization, personalized preferences, responsive dashboard
+- Repository: https://github.com/devidaskamainor/Happy-kitchen-plan-menu
 
-## 5. Organize My Pinned Repositories
+### 3. Snap & Study Easy
 
-Recommend the best four to six repositories to pin on my GitHub profile.
+An AI-powered study assistant that explains uploaded learning material and answers study questions using Gemini, with email and WhatsApp output support.
 
-Prioritize a balanced selection that demonstrates my strongest technical abilities.
+- Technologies: Python, Streamlit, Gemini AI, Twilio, SMTP
+- Key features: image-based study help, instant explanations, email delivery, WhatsApp summaries
+- Repository: https://github.com/devidaskamainor/Snap-and-Study-Easy
 
-For each recommended repository, explain:
-- Why it deserves a pinned position.
-- Which skills it demonstrates.
-- What improvements would make it more impressive to recruiters.
+### 4. AI Investigation Room
 
-If you have the necessary access and permissions, help me organize the repositories. Otherwise, provide clear instructions for pinning them manually.
+An interactive mystery-solving web project with AI-assisted flow, evidence review, notes, hints, and case progression.
 
-Do not delete, archive, or make repositories private without my approval.
+- Technologies: React, Express, MongoDB, Vite, AI generation workflows
+- Key features: investigation flow, user accounts, evidence analysis, scoring, history tracking
+- Repository: https://github.com/devidaskamainor/AI_Investigation_room
 
-## 6. Add GitHub Statistics
+## Currently Learning
 
-Create a clean section featuring relevant GitHub activity.
+- Full-stack architecture and production-ready project design
+- TypeScript and scalable frontend patterns
+- AI integration and practical product development
+- Deployment workflows and professional project documentation
 
-Consider:
-- GitHub contribution statistics.
-- Most-used programming languages.
-- Contribution streaks.
-- Contribution activity.
-- Profile views, if a reliable service is available.
+## GitHub Activity
 
-Use reliable, maintained services where possible.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devidaskamainor&show_icons=true&theme=github_dark&hide_border=true" alt="Devidas Kamainor GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devidaskamainor&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages" height="180" />
+</p>
 
-Make the README resilient to unavailable external services. Keep statistics secondary to my actual projects and code quality.
+## Connect With Me
 
-Do not misrepresent contribution activity or use misleading metrics.
+- GitHub: https://github.com/devidaskamainor
+- LinkedIn: Add your LinkedIn profile URL
+- Portfolio: Add your portfolio URL
+- Email: Add your professional email address
 
-## 7. Add Useful Professional Sections
+## Current Goals
 
-Include relevant sections such as:
+- Build stronger full-stack projects with clean architecture
+- Improve problem-solving, code quality, and interview readiness
+- Learn modern backend patterns and deployment practices
+- Create more AI-assisted and user-focused applications
+- Prepare for internships and software placement opportunities
 
-### About Me
-A short professional introduction.
+## Professional Summary
 
-### Tech Stack
-My verified technologies and tools.
+I build practical software projects with a focus on usability, problem-solving, and continuous learning. My goal is to become a confident full-stack developer by improving my technical skills, writing maintainable code, and creating projects that demonstrate real engineering ability.
 
-### Featured Projects
-My strongest repositories.
+---
 
-### Currently Learning
-Technologies I am actively learning, when known.
-
-### Achievements and Certifications
-Only verified achievements and certifications.
-
-### GitHub Activity
-Relevant contribution statistics.
-
-### Connect With Me
-My actual LinkedIn, portfolio, and other professional links.
-
-### Current Goals
-My genuine learning, development, or career goals, if available.
-
-Do not include empty or unnecessary sections.
-
-## 8. Optimize for Internships and Placements
-
-Review my profile from a technical recruiter's perspective.
-
-Ensure that a recruiter can quickly understand:
-- Who I am.
-- What technologies I know.
-- What projects I have built.
-- What problems my projects solve.
-- How to explore my code.
-- How to contact me professionally.
-
-Recommend improvements to project READMEs, repository descriptions, documentation, and demos where appropriate.
-
-Prioritize evidence of technical ability over decorative profile elements.
-
-## 9. Apply Professional Design Standards
-
-Follow these design guidelines:
-- Clear visual hierarchy.
-- Consistent headings and spacing.
-- Readable typography.
-- Minimal and purposeful color.
-- Relevant technology icons.
-- Concise descriptions.
-- Functional links.
-- Accessible image descriptions.
-- GitHub-compatible Markdown and HTML.
-- Responsive presentation within GitHub's rendering limitations.
-
-Avoid:
-- Excessive badges.
-- Too many emojis.
-- Long, generic personal introductions.
-- Unnecessary animations.
-- Broken images.
-- Fake achievements.
-- Unverified claims.
-- Unmaintained widgets when alternatives exist.
-
-## 10. Review and Improve My Repositories
-
-Inspect my strongest projects and identify improvements to:
-- README documentation.
-- Installation instructions.
-- Project structure.
-- Screenshots and demonstrations.
-- Dependency and setup documentation.
-- Repository descriptions.
-- .gitignore configuration.
-- License information, where appropriate.
-
-Implement safe improvements when the relevant files are available.
-
-Do not modify unrelated projects or introduce unnecessary dependencies.
-
-Never expose secrets, delete important files, rewrite Git history, or push changes without authorization.
-
-## 11. Perform a Final Quality Check
-
-Before finishing:
-- Validate Markdown formatting.
-- Check project links.
-- Check technology names.
-- Remove duplicate content.
-- Correct spelling and grammar.
-- Verify that all personal claims are accurate.
-- Confirm that the README renders cleanly.
-- Identify external services that need configuration.
-- List any missing information I need to provide.
-
-## 12. Deliver the Final Result
-
-Implement the updated README.md in the available profile repository.
-
-Then provide:
-1. A summary of the improvements.
-2. The complete list of modified files.
-3. The recommended pinned repositories and reasons.
-4. Any information I need to complete manually.
-5. Instructions for committing and publishing the changes.
-6. A recruiter-focused assessment of my profile.
-7. The next five actions I should take to strengthen my GitHub profile.
-
-SUCCESS CRITERIA:
-
-My GitHub profile should look aesthetic, professional, authentic, and placement-ready.
-
-It should communicate technical ability, project experience, continuous learning, and career readiness.
-
-Every section should serve a clear purpose.
-
-Start by inspecting the available repository. Identify missing information, make safe improvements, and explain any limitations before claiming the work is complete.
+<p align="center">
+  <i>Building practical projects, learning continuously, and preparing for a career in software development.</i>
+</p>
